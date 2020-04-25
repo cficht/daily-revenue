@@ -1,0 +1,16 @@
+{
+  "name": "daily-revenue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "daily-revenue.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "test:watch": "npm run test -- --watch",
+    "start": "node daily-revenue.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^25.4.0"
+  }
+}
