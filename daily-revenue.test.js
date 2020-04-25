@@ -41,4 +41,4 @@ describe('testing daily-revenue.js', () => {
     expect(revenue(testArray)).toEqual(expectedOutput);
   });
 
-})
+});
